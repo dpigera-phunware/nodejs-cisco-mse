@@ -1,0 +1,17 @@
+{
+"author": "Devin Pigera <dpigera@phunware.com>",
+"name": "nodejs-cisco-mse",
+"description": "Test repo for CISCO MSE Integration",
+"version": "0.0.0",
+"repository": {
+"type": "git",
+"url": "https://github.com/dpigera-phunware/nodejs-cisco-mse.git"
+},
+"main": "app",
+"engines": {
+"node": "~0.6.10"
+},
+"dependencies": {},
+"devDependencies": {},
+"optionalDependencies": {}
+}
